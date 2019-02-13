@@ -1,0 +1,2 @@
+Disallow: /plugin/download
+Sitemap: https://lliiooll.cn/sitemap.xml
