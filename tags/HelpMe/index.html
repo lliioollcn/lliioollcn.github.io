@@ -114,7 +114,7 @@
 
   <meta property="og:type" content="website">
 <meta property="og:title" content="lliiooll&#39;s Blog">
-<meta property="og:url" content="https://lliiooll.cn/categories/测试/index.html">
+<meta property="og:url" content="https://lliiooll.cn/tags/HelpMe/index.html">
 <meta property="og:site_name" content="lliiooll&#39;s Blog">
 <meta property="og:locale" content="zh-CN">
 <meta name="twitter:card" content="summary">
@@ -125,7 +125,7 @@
 
 
 
-  <link rel="canonical" href="https://lliiooll.cn/categories/测试/">
+  <link rel="canonical" href="https://lliiooll.cn/tags/HelpMe/">
 
 
 
@@ -135,7 +135,7 @@
   };
 </script>
 
-  <title>分类: 测试 | lliiooll's Blog</title>
+  <title>标签: HelpMe | lliiooll's Blog</title>
   
 
 
@@ -259,7 +259,7 @@
         
         
           
-          <li class="menu-item menu-item-tags">
+          <li class="menu-item menu-item-tags menu-item-active">
 
     
     
@@ -276,7 +276,7 @@
         
         
           
-          <li class="menu-item menu-item-categories menu-item-active">
+          <li class="menu-item menu-item-categories">
 
     
     
@@ -413,11 +413,11 @@
   
   
   
-  <div class="post-block category">
+  <div class="post-block tag">
 
     <div id="posts" class="posts-collapse">
       <div class="collection-title">
-        <h2>测试<small>分类</small>
+        <h2>HelpMe<small>标签</small>
         </h2>
       </div>
 
@@ -429,17 +429,17 @@
 
       <h3 class="post-title">
         
-          <a class="post-title-link" href="/2019/02/11/你好-Heox/" itemprop="url">
+          <a class="post-title-link" href="/2019/02/13/HelpMe/" itemprop="url">
             
-              <span itemprop="name">你好,Heox</span>
+              <span itemprop="name">HelpMe - 替换服务器原有的帮助列表吧</span>
             
           </a>
         
       </h3>
 
       <div class="post-meta">
-        <time class="post-time" itemprop="dateCreated" datetime="2019-02-11T23:54:27+08:00" content="2019-02-11">
-          02-11
+        <time class="post-time" itemprop="dateCreated" datetime="2019-02-13T13:22:13+08:00" content="2019-02-13">
+          02-13
         </time>
       </div>
 
@@ -456,7 +456,6 @@
   
 
   
-
 
 
           </div>
@@ -1134,8 +1133,8 @@
       //https://hexo.io/docs/variables.html
       var isPost = ''.length > 0
       var isArchive = '' === 'true'
-      var isCategory = '测试'.length > 0
-      var isTag = ''.length > 0
+      var isCategory = ''.length > 0
+      var isTag = 'HelpMe'.length > 0
 
       if (isPost) { //is article page
         var title = ''
@@ -1146,7 +1145,7 @@
       else if (!isArchive && !isCategory && !isTag) { //is index page
         var titles = [] //array to titles
 
-        var postsstr = 'titles.push("你好,Heox");' //if you have a better way to get titles of posts, please change it
+        var postsstr = 'titles.push("HelpMe - 替换服务器原有的帮助列表吧");' //if you have a better way to get titles of posts, please change it
         eval(postsstr)
 
         var promises = titles.map(function (title) {
