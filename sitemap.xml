@@ -1,72 +1,108 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
-
-
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 <url>
-  <loc>https://lliiooll.cn/</loc>
-  <lastmod>2019-02-13T06:17:47+00:00</lastmod>
-  <priority>1.00</priority>
+<mobile:mobile type="pc,mobile"/>
+<loc>http://lliiooll.cn/</loc>
+<priority>1.00</priority>
+<lastmod>2019-05-26</lastmod>
+<changefreq>always</changefreq>
 </url>
 <url>
-  <loc>https://lliiooll.cn/about/</loc>
-  <lastmod>2019-02-13T06:17:47+00:00</lastmod>
-  <priority>0.80</priority>
+<mobile:mobile type="pc,mobile"/>
+<loc>http://lliiooll.cn/about/</loc>
+<priority>0.80</priority>
+<lastmod>2019-05-26</lastmod>
+<changefreq>always</changefreq>
 </url>
 <url>
-  <loc>https://lliiooll.cn/tags/</loc>
-  <lastmod>2019-02-13T06:17:47+00:00</lastmod>
-  <priority>0.80</priority>
+<mobile:mobile type="pc,mobile"/>
+<loc>http://lliiooll.cn/tags/</loc>
+<priority>0.80</priority>
+<lastmod>2019-05-26</lastmod>
+<changefreq>always</changefreq>
 </url>
 <url>
-  <loc>https://lliiooll.cn/categories/</loc>
-  <lastmod>2019-02-13T06:17:47+00:00</lastmod>
-  <priority>0.80</priority>
+<mobile:mobile type="pc,mobile"/>
+<loc>http://lliiooll.cn/categories/</loc>
+<priority>0.80</priority>
+<lastmod>2019-05-26</lastmod>
+<changefreq>always</changefreq>
 </url>
 <url>
-  <loc>https://lliiooll.cn/download/</loc>
-  <lastmod>2019-02-13T06:17:47+00:00</lastmod>
-  <priority>0.80</priority>
+<mobile:mobile type="pc,mobile"/>
+<loc>http://lliiooll.cn/download/</loc>
+<priority>0.80</priority>
+<lastmod>2019-05-26</lastmod>
+<changefreq>always</changefreq>
 </url>
 <url>
-  <loc>https://lliiooll.cn/archives/</loc>
-  <lastmod>2019-02-13T06:17:47+00:00</lastmod>
-  <priority>0.80</priority>
+<mobile:mobile type="pc,mobile"/>
+<loc>http://lliiooll.cn/archives/</loc>
+<priority>0.80</priority>
+<lastmod>2019-05-26</lastmod>
+<changefreq>always</changefreq>
 </url>
 <url>
-  <loc>https://lliiooll.cn/2019/02/13/HelpMe/</loc>
-  <lastmod>2019-02-13T06:17:47+00:00</lastmod>
-  <priority>0.80</priority>
+<mobile:mobile type="pc,mobile"/>
+<loc>http://lliiooll.cn/announcement/</loc>
+<priority>0.80</priority>
+<lastmod>2019-05-26</lastmod>
+<changefreq>always</changefreq>
 </url>
 <url>
-  <loc>https://lliiooll.cn/categories/Bukkit%E6%8F%92%E4%BB%B6/</loc>
-  <lastmod>2019-02-13T06:17:47+00:00</lastmod>
-  <priority>0.80</priority>
+<mobile:mobile type="pc,mobile"/>
+<loc>http://lliiooll.cn/categories/Bukkit插件/</loc>
+<priority>0.60</priority>
+<lastmod>2019-05-26</lastmod>
+<changefreq>always</changefreq>
 </url>
 <url>
-  <loc>https://lliiooll.cn/categories/index.html</loc>
-  <lastmod>2019-02-13T06:17:47+00:00</lastmod>
-  <priority>0.80</priority>
+<mobile:mobile type="pc,mobile"/>
+<loc>http://lliiooll.cn/categories/index.html</loc>
+<priority>0.60</priority>
+<lastmod>2019-05-26</lastmod>
+<changefreq>always</changefreq>
 </url>
 <url>
-  <loc>https://lliiooll.cn/tags/index.html</loc>
-  <lastmod>2019-02-13T06:17:47+00:00</lastmod>
-  <priority>0.80</priority>
+<mobile:mobile type="pc,mobile"/>
+<loc>http://lliiooll.cn/tags/index.html</loc>
+<priority>0.60</priority>
+<lastmod>2019-05-26</lastmod>
+<changefreq>always</changefreq>
 </url>
 <url>
-  <loc>https://lliiooll.cn/tags/HelpMe/</loc>
-  <lastmod>2019-02-13T06:17:47+00:00</lastmod>
-  <priority>0.64</priority>
+<mobile:mobile type="pc,mobile"/>
+<loc>http://lliiooll.cn/tags/HelpMe/</loc>
+<priority>0.60</priority>
+<lastmod>2019-05-26</lastmod>
+<changefreq>always</changefreq>
 </url>
 <url>
-  <loc>https://lliiooll.cn/plugin/HelpMe.html</loc>
-  <lastmod>2019-02-13T06:17:47+00:00</lastmod>
-  <priority>0.64</priority>
+<mobile:mobile type="pc,mobile"/>
+<loc>http://lliiooll.cn/plugin/HelpMe.html</loc>
+<priority>0.60</priority>
+<lastmod>2019-05-26</lastmod>
+<changefreq>always</changefreq>
 </url>
-
-
+<url>
+<mobile:mobile type="pc,mobile"/>
+<loc>https://lliiooll.cn/plugin/HelpMe.html</loc>
+<priority>0.60</priority>
+<lastmod>2019-05-26</lastmod>
+<changefreq>always</changefreq>
+</url>
+<url>
+<mobile:mobile type="pc,mobile"/>
+<loc>http://lliiooll.cn/2019/02/13/HelpMe/</loc>
+<priority>0.20</priority>
+<lastmod>2019-05-26</lastmod>
+<changefreq>always</changefreq>
+</url>
+<url>
+<mobile:mobile type="pc,mobile"/>
+<loc>http://lliiooll.cn/2019/02/13/HelpMe/#comments</loc>
+<priority>0.10</priority>
+<lastmod>2019-05-26</lastmod>
+<changefreq>always</changefreq>
+</url>
 </urlset>

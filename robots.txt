@@ -1,2 +1,3 @@
-Disallow: /plugin/download
-Sitemap: https://lliiooll.cn/sitemap.xml
+﻿User-agent:*
+Disallow:
+Sitemap:http://lliiooll.cn/sitemap.xml
